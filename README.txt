@@ -2,7 +2,7 @@
 **************************************************
 * IE-0117 Programación bajo plataformas abiertas *
 * Yehudy José Román Hernández B15810		 *
-* Source code for lab practices  
+* Source code for lab practices  		 *	
 * May 1st -			  		 * 
 **************************************************
 **************************************************

@@ -7,6 +7,8 @@
 	   from user with the ones generated in 1, 
 	   and tell if it was rigth. If not, tells if it
 	   was greater or lesser than the one generated.
+
+	By: Yehudy Román Hernández_B15810
 '''
 
 def random():
@@ -41,5 +43,5 @@ def adivinanza():
 	while trial != x:
 		y = obtenerInt()
 		trial = respuesta(x,y)
-
+	return
 adivinanza()	

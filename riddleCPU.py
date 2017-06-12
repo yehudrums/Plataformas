@@ -4,6 +4,7 @@
    but here, "la compu" is who guess the number
    The same functions defined in riddle.py will be used
    with some changes
+   By: Yehudy Román Hernández_B15810
 '''
 
 def otorgarInt():
